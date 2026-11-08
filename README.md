@@ -64,9 +64,9 @@ Os resultados demonstram que a integração de diferentes métodos permite prior
 
 O repositório está organizado nas seguintes pastas:
 
-- **Scripts/**: códigos desenvolvidos em R e utilizados nas análises estatísticas e na aplicação dos métodos de aprendizado de máquina.
-- **Data/**: informações sobre os dados utilizados na pesquisa, provenientes dos projetos OryzaSNP e OMAP. Os dados originais podem ser acessados no portal [Rice Diversity](https://ricediversity.org/data/).
-- **Results/**: figuras, visualizações e resultados obtidos a partir das análises realizadas.
+- **Scripts**: códigos desenvolvidos em R e utilizados nas análises estatísticas e na aplicação dos métodos de aprendizado de máquina.
+- **Dados**: informações sobre os dados utilizados na pesquisa, provenientes dos projetos OryzaSNP e OMAP. Os dados originais podem ser acessados no portal [Rice Diversity](https://ricediversity.org/data/).
+- **Resultados**: figuras, visualizações e resultados obtidos a partir das análises realizadas.
 
 ## Linguagem e ferramentas
 
