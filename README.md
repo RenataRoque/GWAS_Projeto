@@ -78,8 +78,6 @@ GWAS; Aprendizado de máquina; Melhoramento genético; Testes de permutação; E
 
 ## Referências
 
-## Referências
-
 AMMIRAJU, J. S. S. et al. The Oryza bacterial artificial chromosome library resource: construction and analysis of 12 deep-coverage large-insert BAC libraries that represent the 10 genome types of the genus Oryza. *Genome Research*, v. 16, n. 1, p. 140–147, jan. 2006.
 
 BALLINI, E. et al. A genome-wide meta-analysis of rice blast resistance genes and quantitative trait loci provides new insights into partial and complete resistance. *Molecular Plant-Microbe Interactions*, v. 21, n. 7, p. 859–868, 2008.
